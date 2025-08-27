@@ -23,7 +23,7 @@
 ![](img/3.png)  
 
 Сделан fork:
-[](https://github.com/gorelovniko/example-teamcity.git)
+[example-teamcity.git](https://github.com/gorelovniko/example-teamcity.git)
 
 Поднят nexus на третьем инстансе:
 ![](img/4.png)  
