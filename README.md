@@ -22,7 +22,7 @@
 Авторизован агент:  
 ![](img/3.png)  
 
-Сделан fork:
+Сделан fork:  
 [example-teamcity.git](https://github.com/gorelovniko/example-teamcity.git)
 
 Поднят nexus на третьем инстансе:
@@ -145,7 +145,7 @@
 
 19. В ответе пришлите ссылку на репозиторий.
 
-[](https://github.com/gorelovniko/netology-teamcity)
+[Горелов TeamCity](https://github.com/gorelovniko/netology-teamcity)
 
 ---
 
